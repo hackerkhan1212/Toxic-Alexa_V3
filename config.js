@@ -66,7 +66,7 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.lolhuman = "KaysaS"
+global.lolhuman = "𝖎𝖙𝖝_𝖎𝖇𝖗𝖆𝖍𝖎𝖒"
 global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -87,7 +87,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: Infinity,
     monayawal: 1000
 }
    global.rpg = {
@@ -100,7 +100,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: Infinity
 }
 // api website by xenz
 global.APIs = {
